@@ -64,7 +64,7 @@ export const products = [
         </p>
         <p>
           This landing page focuses on engaging restaurant owners, food brands,
-          and culinary businesses by offering a glimpse into the agency's
+          and culinary businesses by offering a glimpse into the agency&apos;s
           expertise. With an easy-to-navigate structure, strong calls to action,
           and stunning food imagery, it aims to convert visitors into clients
           seeking high-quality visual storytelling for their products.
@@ -91,10 +91,11 @@ export const products = [
         </p>
         <p>
           The website ensures a seamless user journey from browsing dishes to
-          booking a table or placing an online order. It's responsive across
-          devices, making it easy for customers to explore the restaurant's
-          offerings whether on mobile or desktop. The design focuses on
-          enhancing the brand's identity while improving customer engagement.
+          booking a table or placing an online order. It&apos;s responsive
+          across devices, making it easy for customers to explore the
+          restaurant&apos;s offerings whether on mobile or desktop. The design
+          focuses on enhancing the brand&apos;s identity while improving
+          customer engagement.
         </p>{" "}
       </div>
     ),
@@ -117,10 +118,11 @@ export const products = [
           instantly.{" "}
         </p>
         <p>
-          Whether you're designing a website, an app, or any graphic element,
-          this generator makes it easy to experiment with color combinations and
-          preview them in real-time. It's perfect for developers, designers, and
-          anyone looking to enhance their UI with smooth, modern gradients.
+          Whether you&apos;s designing a website, an app, or any graphic
+          element, this generator makes it easy to experiment with color
+          combinations and preview them in real-time. It&apos;s perfect for
+          developers, designers, and anyone looking to enhance their UI with
+          smooth, modern gradients.
         </p>{" "}
       </div>
     ),
