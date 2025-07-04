@@ -12,12 +12,16 @@ export default function Home() {
       <span className="text-4xl">👋</span>
       <Heading className="font-black">Hello there! I&apos;m Sachin</Heading>
       <Paragraph className="max-w-xl mt-4">
-        I&apos;m a Frontend Developer and Designer who loves{" "}
-        <Highlight>building websites</Highlight> that can make a real impact. I enjoy crafting user-friendly, visually appealing interfaces that are both functional and engaging.
+        I&apos;m a UI UX Designer and Frontend Developer who loves{" "}
+        <Highlight>building websites</Highlight> that can make a real impact. I
+        enjoy crafting user-friendly, visually appealing interfaces that are
+        both functional and engaging.
       </Paragraph>
       <Paragraph className="max-w-xl mt-4">
-      With a strong eye for {" "}
-        <Highlight>design,</Highlight> I focus on creating clean, responsive layouts that offer a great user experience. I’m passionate about blending design and development to bring ideas to life on the web.
+        With a strong eye for <Highlight>design,</Highlight> I focus on creating
+        clean, responsive layouts that offer a great user experience. I’m
+        passionate about blending design and development to bring ideas to life
+        on the web.
       </Paragraph>
       <Heading
         as="h2"
