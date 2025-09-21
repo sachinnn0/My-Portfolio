@@ -19,7 +19,7 @@ export default function Home() {
       </Paragraph>
       <Paragraph className="max-w-xl mt-4">
         With a strong eye for <Highlight>design,</Highlight> I focus on creating
-        clean, responsive layouts that offer a great user experience. I’m
+        clean, responsive layouts that offer a great user experience. I'm
         passionate about blending design and development to bring ideas to life
         on the web.
       </Paragraph>
