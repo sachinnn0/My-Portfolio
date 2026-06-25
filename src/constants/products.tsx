@@ -46,7 +46,7 @@ export const products = [
     ),
   },
   {
-    href: "https://oakaz-restaurant.vercel.app/",
+    href: "https://oakaz-restaurant",
     title: "Oakaz Restaurant",
     description:
       "A Restaurant Website that allows you to book a table and order food online.",
