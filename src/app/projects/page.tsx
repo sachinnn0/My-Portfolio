@@ -8,7 +8,7 @@ import Image from "next/image";
 
 export const metadata: Metadata = {
   title: "Projects | Sachin Vishwakarma",
-  description: "Sachin Vishwakarma is a UI UX designer and Frontend Developer.",
+  description: "Sachin Vishwakarma is a UI UX designer",
 };
 
 export default function Projects() {

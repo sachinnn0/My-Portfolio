@@ -8,8 +8,8 @@ import sidefolioMoonbeam from "public/images/Thumbnail-3.png";
 import sidefolioMoonbeam1 from "public/images/Restaurant-1.jpeg";
 import sidefolioMoonbeam2 from "public/images/Restaurant-2.png";
 import sidefolioTailwindMasterKit from "public/images/Thumbnail-4.png";
-import sidefolioTailwindMasterKit1 from "public/images/Thumbnail-4.png";
-import sidefolioTailwindMasterKit2 from "public/images/Thumbnail-4.png";
+import sidefolioTailwindMasterKit1 from "public/images/Thumbnail-41.png";
+import sidefolioTailwindMasterKit2 from "public/images/Thumbnail-42.png";
 
 export const products = [
   {
@@ -18,7 +18,7 @@ export const products = [
     description: "An Ecommerce Website which Focus on Printing T-shirts. ",
     thumbnail: sidefolioAceternity,
     images: [sidefolioAceternity1, sidefolioAceternity2],
-    stack: ["Figma", "React", "Tailwindcss"],
+    stack: ["Figma"],
     slug: "aceternity",
     content: (
       <div>
@@ -42,6 +42,26 @@ export const products = [
           Reprehenderit adipisicing minim et officia enim et veniam Lorem
           excepteur velit adipisicing et Lorem magna.
         </p>{" "} */}
+      </div>
+    ),
+  },
+  {
+    href: "https://oakaz-restaurant.vercel.app/",
+    title: "Oakaz Restaurant",
+    description:
+      "A Restaurant Website that allows you to book a table and order food online.",
+    thumbnail: sidefolioTailwindMasterKit,
+    images: [sidefolioTailwindMasterKit1, sidefolioTailwindMasterKit2],
+    stack: ["React", "Tailwindcss"],
+    slug: "tailwindmasterkit",
+    content: (
+      <div>
+        <p>
+        Oakaz Rooftop Restaurant offers an unforgettable dining experience with handcrafted cuisine, signature cocktails, and breathtaking rooftop views. Every visit is designed to bring together exceptional flavors, warm hospitality, and memorable moments.{" "}
+        </p>
+        <p>
+        At Oakaz Rooftop Restaurant, we serve more than just food—we create memorable dining experiences. Enjoy expertly crafted dishes, refreshing beverages, and a sophisticated rooftop ambiance perfect for every occasion..
+        </p>{" "}
       </div>
     ),
   },
@@ -100,31 +120,5 @@ export const products = [
       </div>
     ),
   },
-  {
-    href: "https://gradient.sachinvishwakarma.site/",
-    title: "Gredient Generator",
-    description:
-      "A Gradient Generator that allows you to create beautiful gradients.",
-    thumbnail: sidefolioTailwindMasterKit,
-    images: [sidefolioTailwindMasterKit1, sidefolioTailwindMasterKit2],
-    stack: ["React", "Tailwindcss"],
-    slug: "tailwindmasterkit",
-    content: (
-      <div>
-        <p>
-          The Gradient Generator is a simple and intuitive tool that helps you
-          design stunning gradients for your projects. With just a few clicks,
-          you can choose your colors, adjust angles, and copy the CSS code
-          instantly.{" "}
-        </p>
-        <p>
-          Whether you&apos;s designing a website, an app, or any graphic
-          element, this generator makes it easy to experiment with color
-          combinations and preview them in real-time. It&apos;s perfect for
-          developers, designers, and anyone looking to enhance their UI with
-          smooth, modern gradients.
-        </p>{" "}
-      </div>
-    ),
-  },
+
 ];

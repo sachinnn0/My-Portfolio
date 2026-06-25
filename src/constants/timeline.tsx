@@ -1,8 +1,8 @@
 export const timeline = [
   {
-    company: "Freelance",
-    title: "UI/UX Designer / Frontend Developer",
-    date: "2024 - Present",
+    company: "Twarak Infotech",
+    title: "UI/UX Designer",
+    date: "2025 - 2026",
     description: "Building the future of web",
     responsibilities: [
       "Designed and developed user-friendly interfaces for websites and web applications",
@@ -11,6 +11,20 @@ export const timeline = [
       "Implemented responsive design principles to create mobile-friendly interfaces",
       "Utilized HTML, CSS, and JavaScript to build interactive and dynamic web experiences",
       "Stayed up-to-date with the latest design trends and best practices in web development",
+    ],
+  },
+  {
+    company: "Freelance",
+    title: "Graphic Designer",
+    date: "2023 - 2025",
+    description: "Crafting impactful visual experiences",
+    responsibilities: [
+      "Transformed ideas into polished concepts through wireframes and high-fidelity mockups",
+      "Produced high-quality creative assets for both digital platforms and print media",
+      "Leveraged typography, color, and layout to deliver impactful visual communication",
+      "Collaborated with clients to translate business goals into visual design solutions",
+      "Stayed up to date with design trends and tools to create modern designs",
+
     ],
   },
   {

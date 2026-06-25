@@ -12,7 +12,7 @@ export default function Home() {
       <span className="text-4xl">💼</span>
       <Heading className="font-black">Work History</Heading>
       <Paragraph className="max-w-xl mt-4">
-        I&apos;m a UI UX Designer and Frontend Developer who loves building{" "}
+        I&apos;m a UI UX Designer who loves building{" "}
         <Highlight>websites</Highlight> that create meaningful experiences for
         users.
       </Paragraph>

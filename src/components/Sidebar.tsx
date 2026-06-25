@@ -116,7 +116,7 @@ const SidebarHeader = () => {
       />
       <div className="flex text-sm flex-col">
         <p className="font-bold text-primary">Sachin Vishwakarma</p>
-        <p className="font-light text-secondary">Designer & Developer</p>
+        <p className="font-light text-secondary">UI/UX Designer</p>
       </div>
     </div>
   );
